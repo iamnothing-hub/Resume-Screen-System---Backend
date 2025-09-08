@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: SERVICE-REGISTRY
+
+
+eureka:
+  instance:
+    hostname: localhost           #-> Ye localhost wale server ko fetch karega.
+  client:
+    register-with-eureka: false   #-> Ye apne aapko register karne se prevent karega aur client nahi banega it will work as server
+    fetch-registry: false         #-> isase apne aapko fetch nahi karega
+
+server:
+  port: 8761

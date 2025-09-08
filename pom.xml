@@ -39,6 +39,7 @@
     <!--  All services will be in modules  -->
     <modules>
         <module>auth-service</module>
+        <module>Service-Registry</module>
     </modules>
 
 

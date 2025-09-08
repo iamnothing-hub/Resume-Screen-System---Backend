@@ -40,6 +40,7 @@
     <modules>
         <module>auth-service</module>
         <module>Service-Registry</module>
+        <module>API-Gateway</module>
     </modules>
 
 

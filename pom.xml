@@ -38,7 +38,7 @@
 
     <!--  All services will be in modules  -->
     <modules>
-
+        <module>auth-service</module>
     </modules>
 
 

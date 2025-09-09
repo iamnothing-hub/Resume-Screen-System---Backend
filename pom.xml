@@ -41,6 +41,8 @@
         <module>auth-service</module>
         <module>Service-Registry</module>
         <module>API-Gateway</module>
+        <module>Resume-Service</module>
+        <module>AI-Service</module>
     </modules>
 
 

@@ -43,6 +43,7 @@
         <module>API-Gateway</module>
         <module>Resume-Service</module>
         <module>AI-Service</module>
+        <module>Recruiter-Service</module>
     </modules>
 
 
